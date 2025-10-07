@@ -1,4 +1,4 @@
-package main.java.erp.user_server.controllers.home;
+package erp.user_server.controllers.home;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
